@@ -1,0 +1,22 @@
+p1
+	{
+		color: red;
+		font-size: 2em }
+
+p2
+{
+	color: blue;
+	font-size: 16px
+}
+
+.c
+	{
+		color:red;
+		border :2px solid blue;
+		border-radius: 5px;
+		width: 20%;
+		height: 20%;
+		padding: 30px;
+		margin: auto;
+		background-color: yellow;
+	}
